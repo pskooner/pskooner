@@ -38,7 +38,7 @@ My work includes research data preparation and analysis, statistical and analyti
 
 ## Featured Research & Analytics Projects
 
-### 🧬 [Genome-Wide Association Analysis of Triglyceride Levels](https://github.com/pskooner/genetic-epidemiology-gwas-triglyceride-analysis)
+### [Genome-Wide Association Analysis of Triglyceride Levels](https://github.com/pskooner/genetic-epidemiology-gwas-triglyceride-analysis)
 
 **PLINK | R | Unix/Linux | Genetic Epidemiology**
 
